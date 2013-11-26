@@ -1,0 +1,66 @@
+/* Anchor styles are applied via classes */
+.anchor {
+  text-decoration: none;
+}
+
+/* green anchor with light green hover */
+.anchor-1,
+.anchor-1:active {
+  color: #1f7c07;
+  text-decoration: underline;
+}
+.anchor-1:hover {
+  color: #2bac0a;
+}
+
+/* grey anchor with dark grey hover */
+.anchor-2,
+.anchor-2:active {
+  color: #888;
+  text-decoration: none;
+}
+.anchor-2:hover {
+  color: #333;
+}
+
+/* dark grey anchor with dark green hover, no underline */
+.anchor-3,
+.anchor-3:active {
+  color: #444;
+  text-decoration: none;
+}
+.anchor-3:hover {
+  color: #1f7c07;
+}
+
+/* white anchor */
+.anchor-4,
+.anchor-4:hover {
+  color: #fff;
+  text-decoration: none;
+}
+
+/* dark green anchor with light green hover */
+.anchor-5,
+.anchor-5:active {
+  color: #1f7c07;
+  text-decoration: none;
+}
+.anchor-5:hover {
+  color: #2bac0a;
+}
+
+/* dark grey anchor with dark green hover, with underline */
+.anchor-6,
+.anchor-6:active {
+  color: #444;
+  text-decoration: underline;
+}
+.anchor-6:hover {
+  color: #1f7c07;
+}
+
+/* Add underline to anchor */
+.anchor--underline {
+  text-decoration: underline;
+}
