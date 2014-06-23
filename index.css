@@ -1,6 +1,5 @@
 /* Anchor styles are applied via classes */
 .anchor {
-  cursor: pointer;
   text-decoration: none;
 }
 
@@ -65,3 +64,8 @@
 .anchor--underline {
   text-decoration: underline;
 }
+
+.anchor, .anchor-1, .anchor-2, .anchor-3, .anchor-4, .anchor-5, .anchor-6 {
+  cursor: pointer;
+}
+
