@@ -1,5 +1,6 @@
 /* Anchor styles are applied via classes */
 .anchor {
+  cursor: pointer;
   text-decoration: none;
 }
 
