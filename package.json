@@ -1,0 +1,9 @@
+{
+  "name": "@nib-styles/anchors",
+  "version": "0.0.2",
+  "main.css": "index.css",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:nib-styles/anchors.git"
+  }
+}
